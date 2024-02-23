@@ -6,11 +6,12 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+This dataset presents a captivating challenge due to the intricate relationship between the input and output columns. The complex nature of this connection suggests that there may be underlying patterns or hidden factors that are not readily apparent.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/aldrinlijo04/basic-nn-model/assets/118544279/7788db31-e1b0-4858-8111-4f0fd5f33284)
+
 
 ## DESIGN STEPS
 
